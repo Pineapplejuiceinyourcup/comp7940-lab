@@ -1,0 +1,4 @@
+config.ini
+venv/
+*.pem
+__pycache__/
